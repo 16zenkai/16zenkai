@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2222,8B0000&height=200&section=header&text=Zenkai&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Discord%20Bots%20%7C%20Automation%20Tools&descAlignY=58&descSize=16&descColor=FFCCCC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2222,8B0000&height=200&section=header&text=ZenKai&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Discord%20Bots%20%7C%20Automation%20Tools&descAlignY=58&descSize=16&descColor=FFCCCC" width="100%"/>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ```ts
 const zenkai = {
-  name       : "Zenkai",
+  name       : "ZenKai",
   title      : "Full Stack Developer",
 
   building   : [
@@ -52,7 +52,7 @@ const zenkai = {
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zenkai&color=FF2222&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=16zenkai&color=FF2222&style=flat-square&label=Profile+Views)
 
 </td>
 </tr>
@@ -116,9 +116,9 @@ const zenkai = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zenkai&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF2222&icon_color=FF2222&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=16zenkai&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF2222&icon_color=FF2222&text_color=ffffff&border_radius=10&count_private=true&include_all_commits=true" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenkai&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF2222&text_color=ffffff&border_radius=10&langs_count=7" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16zenkai&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF2222&text_color=ffffff&border_radius=10&langs_count=7" height="170"/>
 
 </div>
 
@@ -126,7 +126,7 @@ const zenkai = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Zenkai&theme=dark&hide_border=true&background=0d0d0d&ring=FF2222&fire=FF2222&currStreakLabel=FF2222&sideLabels=ffffff&dates=888888&border_radius=10" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=16zenkai&theme=dark&hide_border=true&background=0d0d0d&ring=FF2222&fire=FF2222&currStreakLabel=FF2222&sideLabels=ffffff&dates=888888&border_radius=10" width="60%"/>
 
 </div>
 
@@ -134,7 +134,7 @@ const zenkai = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenkai&bg_color=0d0d0d&color=FF2222&line=FF2222&point=ffffff&hide_border=true&radius=6&area=true&area_color=550000" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=16zenkai&bg_color=0d0d0d&color=FF2222&line=FF2222&point=ffffff&hide_border=true&radius=6&area=true&area_color=550000" width="95%"/>
 
 </div>
 
@@ -144,7 +144,7 @@ const zenkai = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zenkai&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=16zenkai&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
@@ -155,9 +155,9 @@ const zenkai = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zenkai/Zenkai/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zenkai/Zenkai/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Zenkai/Zenkai/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/16zenkai/16zenkai/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/16zenkai/16zenkai/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/16zenkai/16zenkai/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
@@ -170,20 +170,11 @@ const zenkai = {
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zenkai)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/16zenkai)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF2222?style=for-the-badge&logo=vercel&logoColor=white)](https://yoursite.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2222?style=for-the-badge&logo=vercel&logoColor=white)](https://aboutzenkai.vercel.app)
 
 <br/><br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║   Open to freelance work, collabs and cool builds.   ║
-║              Drop a message anytime.                 ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2222,8B0000&height=100&section=footer" width="100%"/>
 
