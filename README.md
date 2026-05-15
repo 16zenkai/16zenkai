@@ -1,33 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Zenkai&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Discord%20Bot%20Builder%20%7C%20Tool%20Crafter&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Zenkai&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Full%20Stack%20Developer%20%7C%20Discord%20Bot%20Builder%20%7C%20Tool%20Crafter&descAlignY=58&descSize=17&descColor=ffcccc" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6EE7B7&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+there!+I'm+Zenkai+%F0%9F%91%8B;I+build+Discord+bots+that+slap.;Full+stack+dev+%7C+Frontend+%2B+Backend.;Custom+tools+%26+automations.;Always+shipping+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=620&height=50&lines=Hey+there!+I'm+Zenkai+%F0%9F%91%8B;I+build+Discord+bots+that+slap.;Full+stack+dev+%7C+Frontend+%2B+Backend.;Custom+tools+%26+automations.;Always+shipping+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### Who Am I
 
 ```yaml
-name: Zenkai
-role: Full Stack Developer
-focus:
+name     : Zenkai
+role     : Full Stack Developer
+focus    :
   - Discord Bots
   - Web Applications
   - Custom Automation Tools
-stack:
-  languages: [Python, JavaScript, HTML, CSS]
-  frontend: [React, Next.js]
-  backend: [Node.js, Express]
-status: Always building something
+stack    :
+  languages : [Python, JavaScript, HTML, CSS]
+  frontend  : [React, Next.js]
+  backend   : [Node.js, Express]
+status   : Always building something 🔴
 ```
 
 <br clear="right"/>
@@ -39,22 +39,22 @@ status: Always building something
 <div align="center">
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0d1117)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0d1117)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-1a0000?style=for-the-badge&logo=python&logoColor=FF4444&labelColor=1a0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=FF4444&labelColor=1a0000)
+![HTML5](https://img.shields.io/badge/HTML5-1a0000?style=for-the-badge&logo=html5&logoColor=FF4444&labelColor=1a0000)
+![CSS3](https://img.shields.io/badge/CSS3-1a0000?style=for-the-badge&logo=css3&logoColor=FF4444&labelColor=1a0000)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=0d1117)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0d1117)
+![React](https://img.shields.io/badge/React-1a0000?style=for-the-badge&logo=react&logoColor=FF4444&labelColor=1a0000)
+![Next.js](https://img.shields.io/badge/Next.js-1a0000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=1a0000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a0000?style=for-the-badge&logo=tailwindcss&logoColor=FF4444&labelColor=1a0000)
 
 ### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=6EE7B7&labelColor=0d1117)
-![Discord.py](https://img.shields.io/badge/Discord.py-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0d1117)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0d1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-1a0000?style=for-the-badge&logo=nodedotjs&logoColor=FF4444&labelColor=1a0000)
+![Discord.py](https://img.shields.io/badge/Discord.py-1a0000?style=for-the-badge&logo=discord&logoColor=FF4444&labelColor=1a0000)
+![Git](https://img.shields.io/badge/Git-1a0000?style=for-the-badge&logo=git&logoColor=FF4444&labelColor=1a0000)
+![VS Code](https://img.shields.io/badge/VS_Code-1a0000?style=for-the-badge&logo=visualstudiocode&logoColor=FF4444&labelColor=1a0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0000?style=for-the-badge&logo=mongodb&logoColor=FF4444&labelColor=1a0000)
 
 </div>
 
@@ -79,20 +79,20 @@ status: Always building something
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zenkai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&border_radius=10&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenkai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=c9d1d9&border_radius=10&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zenkai&show_icons=true&theme=dark&hide_border=true&bg_color=0d0000&title_color=FF4444&icon_color=FF4444&text_color=ffffff&border_radius=10&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zenkai&layout=compact&theme=dark&hide_border=true&bg_color=0d0000&title_color=FF4444&text_color=ffffff&border_radius=10&langs_count=8" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenkai&theme=tokyonight&hide_border=true&background=0d1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7&border_radius=10" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenkai&theme=dark&hide_border=true&background=0d0000&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=ffffff&dates=ffffff&border_radius=10" width="60%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenkai&theme=tokyo-night&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=ffffff&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenkai&bg_color=0d0000&color=FF4444&line=FF4444&point=ffffff&hide_border=true&radius=8" width="95%"/>
 
 </div>
 
@@ -102,7 +102,7 @@ status: Always building something
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Zenkai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Zenkai&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -112,9 +112,9 @@ status: Always building something
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zenkai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Discord](https://img.shields.io/badge/Discord-FF4444?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=FF4444)](https://github.com/Zenkai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4444?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -128,8 +128,8 @@ status: Always building something
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zenkai&color=6EE7B7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Zenkai&color=FF4444&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
