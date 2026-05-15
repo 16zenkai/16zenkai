@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="900" height="60">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="50%" stop-color="#1a0505"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <linearGradient id="redFade" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="25%" stop-color="#FF2222"/>
+      <stop offset="75%" stop-color="#FF2222"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="60" fill="url(#footerBg)"/>
+
+  <!-- Top border line -->
+  <rect x="0" y="0" width="900" height="1.5" fill="url(#redFade)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Centered tagline -->
+  <text x="450" y="28" font-family="'Courier New', Courier, monospace" font-size="10"
+    fill="white" text-anchor="middle" letter-spacing="5" fill-opacity="0.5">
+    BUILT WITH PRECISION  ·  SHIPPED WITH PURPOSE
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="450" y="38" width="8" height="1.5" fill="#FF2222" rx="1">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
