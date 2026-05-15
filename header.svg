@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#1a0505"/>
+    </linearGradient>
+    <linearGradient id="redLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="20%" stop-color="#FF2222"/>
+      <stop offset="80%" stop-color="#FF2222"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)" rx="0"/>
+
+  <!-- Animated background pulse -->
+  <ellipse cx="450" cy="140" rx="300" ry="100" fill="#FF2222" fill-opacity="0.04">
+    <animate attributeName="rx" values="280;340;280" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.03;0.07;0.03" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Grid dots -->
+  <g fill="#FF2222" fill-opacity="0.12">
+    <circle cx="60" cy="40" r="1.2"/><circle cx="120" cy="40" r="1.2"/><circle cx="180" cy="40" r="1.2"/>
+    <circle cx="720" cy="40" r="1.2"/><circle cx="780" cy="40" r="1.2"/><circle cx="840" cy="40" r="1.2"/>
+    <circle cx="60" cy="240" r="1.2"/><circle cx="120" cy="240" r="1.2"/><circle cx="180" cy="240" r="1.2"/>
+    <circle cx="720" cy="240" r="1.2"/><circle cx="780" cy="240" r="1.2"/><circle cx="840" cy="240" r="1.2"/>
+  </g>
+
+  <!-- Top red line animated -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#redLine)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Bottom red line animated -->
+  <rect x="0" y="278" width="900" height="2" fill="url(#redLine)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" begin="1.25s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner brackets TL -->
+  <path d="M 28 28 L 28 16 L 40 16" stroke="#FF2222" stroke-width="2" fill="none" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <!-- Corner brackets TR -->
+  <path d="M 872 28 L 872 16 L 860 16" stroke="#FF2222" stroke-width="2" fill="none" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" begin="0.75s" repeatCount="indefinite"/>
+  </path>
+  <!-- Corner brackets BL -->
+  <path d="M 28 252 L 28 264 L 40 264" stroke="#FF2222" stroke-width="2" fill="none" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" begin="1.5s" repeatCount="indefinite"/>
+  </path>
+  <!-- Corner brackets BR -->
+  <path d="M 872 252 L 872 264 L 860 264" stroke="#FF2222" stroke-width="2" fill="none" stroke-linecap="round">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" begin="2.25s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Greeting text fade in -->
+  <text x="450" y="88" font-family="'Courier New', Courier, monospace" font-size="13" fill="#FF2222"
+    text-anchor="middle" letter-spacing="6" font-weight="400" opacity="0">
+    &lt; WELCOME TO MY PROFILE /&gt;
+    <animate attributeName="opacity" values="0;0.8" dur="0.6s" begin="0.1s" fill="freeze"/>
+  </text>
+
+  <!-- Main name ZENKAI -->
+  <text x="450" y="168" font-family="'Courier New', Courier, monospace" font-size="78"
+    font-weight="900" fill="white" text-anchor="middle" letter-spacing="20"
+    filter="url(#softglow)" opacity="0">
+    ZENKAI
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.4s" fill="freeze"/>
+  </text>
+
+  <!-- Red glow copy of name -->
+  <text x="450" y="168" font-family="'Courier New', Courier, monospace" font-size="78"
+    font-weight="900" fill="#FF2222" text-anchor="middle" letter-spacing="20"
+    opacity="0" filter="url(#glow)">
+    ZENKAI
+    <animate attributeName="opacity" values="0;0.15;0.05;0.15" dur="4s" begin="1.2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Animated underline sweep -->
+  <rect x="450" y="182" width="0" height="2" fill="url(#redLine)" rx="1">
+    <animate attributeName="width" values="0;360" dur="0.7s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="x" values="450;270" dur="0.7s" begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- Subtitle -->
+  <text x="450" y="218" font-family="'Courier New', Courier, monospace" font-size="11.5"
+    fill="white" text-anchor="middle" letter-spacing="4" fill-opacity="0.75" opacity="0">
+    DISCORD BOTS  ·  FULL STACK  ·  AUTOMATION TOOLS
+    <animate attributeName="opacity" values="0;0.75" dur="0.5s" begin="1.3s" fill="freeze"/>
+  </text>
+
+  <!-- Status dot + text -->
+  <circle cx="380" cy="246" r="4" fill="#FF2222">
+    <animate attributeName="r" values="3.5;5;3.5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="392" y="250" font-family="'Courier New', Courier, monospace" font-size="10"
+    fill="#FF2222" letter-spacing="2" opacity="0">
+    OPEN TO WORK
+    <animate attributeName="opacity" values="0;0.9" dur="0.5s" begin="1.7s" fill="freeze"/>
+  </text>
+</svg>
